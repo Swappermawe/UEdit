@@ -1,4 +1,11 @@
-# UEdit
+#    _  _      ____         _    __   _    
+  FJ  L]    F ___J     ___FJ   LJ  FJ_   
+ J |  | L  J |___:    F __  L     J  _|  
+ | |  | |  | _____|  | |--| |  FJ | |-'  
+ F L__J J  F L____:  F L__J J J  LF |__-.
+J\______/FJ________LJ\____,__LJ__L\_____/
+ J______F |________| J____,__F|__|J_____F
+ 
 A python save editor for Undertale that is currently in WIP.
 For now, it supports having both editable undertale.ini and file0. Additional support for Deltarune or fangames like Undertale Yellow will come out in future updates.
 The sole reason why there are two updates so fast is because I made them before making a repository.
