@@ -18,6 +18,7 @@ For undertale.ini, you can choose the following:
 - BC (which is the total of your item count)
 - Time
 - Room
+
 For file0:
 - Flags 1 - 549 with manual input (https://docs.google.com/spreadsheets/d/1kQZ3FvunKb2PSkFkjVzK3BhIDLvIZkf-tsKGhuUa_0A/ for reference)
 
