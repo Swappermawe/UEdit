@@ -22,6 +22,13 @@ For undertale.ini, you can choose the following:
 For file0:
 - Flags 1 - 549 with manual input (https://docs.google.com/spreadsheets/d/1kQZ3FvunKb2PSkFkjVzK3BhIDLvIZkf-tsKGhuUa_0A/ for reference)
 
+For file9:
+- ...Copying file0 over it
+
+For data.win:
+- Enabling/disabling Debug Mode
+- Backing up/Restoring
+
 # Why do versions have the "| PC" prefix?
 I plan to have releases for:
 - Linux
