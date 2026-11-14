@@ -1,3 +1,5 @@
+<img width="369" height="180" alt="logo" src="https://github.com/user-attachments/assets/a3990818-12b4-4ead-8004-64cdcfa2bb05" />
+
 # UEdit
 A python save editor for Undertale that is currently in WIP.
 For now, it supports having both editable undertale.ini and file0. Additional support for Deltarune or fangames like Undertale Yellow will come out in future updates.
@@ -36,3 +38,10 @@ I plan to have releases for:
 
 # Any updates soon?
 Maybe. Can't say.
+
+# Indication help!
+- Green: Success
+- Yellow: Warning
+- Red: Error
+- Cyan: Progress
+- White: Info/Misc
