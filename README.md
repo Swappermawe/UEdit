@@ -1,4 +1,6 @@
-<img width="369" height="180" alt="logo" src="https://github.com/user-attachments/assets/a3990818-12b4-4ead-8004-64cdcfa2bb05" />
+<p align="center">
+  <img width="369" height="180" alt="logo" src="https://github.com/user-attachments/assets/a3990818-12b4-4ead-8004-64cdcfa2bb05" />
+</p>
 
 # UEdit
 A python save editor for Undertale that is currently in WIP.
