@@ -47,3 +47,17 @@ Maybe. Can't say.
 - Red: Error
 - Cyan: Progress
 - White: Info/Misc
+
+# Roadmap?
+- Alpha 4
+- Alpha 1-4 | LINUX
+- Beta 1
+
+```text
+=--------------------------------------------------- =
+(                                                    )
+= Thanks for reading, and maybe even using the tool! =
+= It means EVERYTHING to me!! <3                     =
+(    - Swappermawe                                   )
+=----------------------------------------------------=
+```
