@@ -53,7 +53,6 @@ Maybe. Can't say.
 - White: Info/Misc
 
 # Roadmap?
-- Alpha 4
 - Alpha 1-4 | LINUX
 - Beta 1
 
