@@ -12,6 +12,10 @@ Windows exclusive (for now).
 UEdit requires following:
 - Python (obviously; pref. 3.10)
 - colorama
+- pyxdelta
+
+# How to use UEdit?
+- You can lauche UEdit both from the explorer or CMD.
 
 # Functionality
 For undertale.ini, you can choose the following:
